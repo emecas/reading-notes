@@ -1,64 +1,63 @@
-1_Foreword  
-2_Preface          
-2_1_Why I wrote this book      
-2_1_What you’ll find in this book      
-3_Acknowledgements  
-4_Testimonials  
-5_Introduction          
-5_1_In the Beginning      
-5_2_From Tech Leads to Tech Leads      
-5_3_From Novices to Practitioners      
-6_Novices          
-6_1_A Different Perspective – Cameron Swords      
-6_2_Change of Focus – Anne Simmons      
-6_3_Needs for a Wider Skill Set – Ebony Pierce      
-6_4_Juggling Act – Siebert Lubbe      
-6_5_The External Face – Liz Douglass      
-6_6_Chaos and Cluelessness – Roy Osherove      
-6_7_More Than Just Tech – Priyank Gupta      
-6_8_The Bigger Picture – Suchit Puri      
-6_9_Less Coding, More Responsibility – David ‘Bucky’ Schwarz      
-6_10_Lean on Communication Skills – Stefan Marev      
-7_Practitioners  
-8_People          
-8_1_Team Focus – Alison Rosewarne      
-8_2_Team over Self – Humphrey Elton      
-8_3_Delegate, Delegate, Delegate – Jason Selby      
-8_4_Facilitating, then Leading – Dan Abel      
-8_5_Helping the Team – Adam Esterline      
-8_6_Inwards and Outwards – Rachel Laycock      
-8_7_Soft Skills – Jon Pither      
-8_8_Enabling People – Isabella Degen      
-8_9_It’s Not About the Code – Patric Fornasier      
-8_10_People Focus – Sarah Taraporewalla      
-8_11_Engaging the Team – Glen Ford      
-9_The Tech of a Tech Lead          
-9_1_Teams and Architecture – Simon Brown      
-9_2_Enablement and Solution Design – Marten Gustafson      
-9_3_Manage Tech Debt – Mark Crossfield      
-9_4_An Architect Too? – Tomi Vanek      
-9_5_Champion Quality – Peter Moran      
-9_6_Don’t Forget Cross-Functional Requirements – Christy Allmon      
-9_7_Prioritising Tech Tasks – Chris Close      
-10_Bridging the Business with Tech          
-10_1_The Big Picture – Luca Grulla      
-10_2_Align Technology with Business – Robert Annett      
-10_3_Mapping the Future – Jason Dennis      
-10_4_Finding Balance with the Business – Cory Foy      
-10_5_A Bridge to the Business – Ryan Kinderman      
-11_You          
-11_1_Managing Yourself – Stephen Hardisty      
-11_2_Scouting – Geoffrey Giesemann      
-11_3_Lead from Behind – Joel Tosi      
-11_4_Understand Yourself – Daniel Worthington-Bodart      
-11_5_Finding Balance – Laura Paterson      
-12_Conclusions          
-12_1_Lessons Learned by First-Time Tech Leads      
-12_2_Lessons Learned by Practising Tech Leads      
-12_3_Final Words      
-13_Appendix          
-13_1_Useful Books      
-13_2_Useful Websites      
-13_4_Other References      
-14_About the Author  
-
+1_Foreword
+2_Preface
+2_1_Why_I_wrote_this_book
+2_1_What_you’ll_find_in_this_book
+3_Acknowledgements
+4_Testimonials
+5_Introduction
+5_1_In_the_Beginning
+5_2_From_Tech_Leads_to_Tech_Leads
+5_3_From_Novices_to_Practitioners
+6_Novices
+6_1_A_Different_Perspective_–_Cameron_Swords
+6_2_Change_of_Focus_–_Anne_Simmons
+6_3_Needs_for_a_Wider_Skill_Set_–_Ebony_Pierce
+6_4_Juggling_Act_–_Siebert_Lubbe
+6_5_The_External_Face_–_Liz_Douglass
+6_6_Chaos_and_Cluelessness_–_Roy_Osherove
+6_7_More_Than_Just_Tech_–_Priyank_Gupta
+6_8_The_Bigger_Picture_–_Suchit_Puri
+6_9_Less_Coding,_More_Responsibility_–_David_‘Bucky’_Schwarz
+6_10_Lean_on_Communication_Skills_–_Stefan_Marev
+7_Practitioners
+8_People
+8_1_Team_Focus_–_Alison_Rosewarne
+8_2_Team_over_Self_–_Humphrey_Elton
+8_3_Delegate,_Delegate,_Delegate_–_Jason_Selby
+8_4_Facilitating,_then_Leading_–_Dan_Abel
+8_5_Helping_the_Team_–_Adam_Esterline
+8_6_Inwards_and_Outwards_–_Rachel_Laycock
+8_7_Soft_Skills_–_Jon_Pither
+8_8_Enabling_People_–_Isabella_Degen
+8_9_It’s_Not_About_the_Code_–_Patric_Fornasier
+8_10_People_Focus_–_Sarah_Taraporewalla
+8_11_Engaging_the_Team_–_Glen_Ford
+9_The_Tech_of_a_Tech_Lead
+9_1_Teams_and_Architecture_–_Simon_Brown
+9_2_Enablement_and_Solution_Design_–_Marten_Gustafson
+9_3_Manage_Tech_Debt_–_Mark_Crossfield
+9_4_An_Architect_Too_–_Tomi_Vanek
+9_5_Champion_Quality_–_Peter_Moran
+9_6_Dont_Forget_Cross-Functional_Requirements_–_Christy_Allmon
+9_7_Prioritising_Tech_Tasks_–_Chris_Close
+10_Bridging_the_Business_with_Tech
+10_1_The_Big_Picture_–_Luca_Grulla
+10_2_Align_Technology_with_Business_–_Robert_Annett
+10_3_Mapping_the_Future_–_Jason_Dennis
+10_4_Finding_Balance_with_the_Business_–_Cory_Foy
+10_5_A_Bridge_to_the_Business_–_Ryan_Kinderman
+11_You
+11_1_Managing_Yourself_–_Stephen_Hardisty
+11_2_Scouting_–_Geoffrey_Giesemann
+11_3_Lead_from_Behind_–_Joel_Tosi
+11_4_Understand_Yourself_–_Daniel_Worthington-Bodart
+11_5_Finding_Balance_–_Laura_Paterson
+12_Conclusions
+12_1_Lessons_Learned_by_First-Time_Tech_Leads
+12_2_Lessons_Learned_by_Practising_Tech_Leads
+12_3_Final_Words
+13_Appendix
+13_1_Useful_Books
+13_2_Useful_Websites
+13_4_Other_References
+14_About_the_Author
